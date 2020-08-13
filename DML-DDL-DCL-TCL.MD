@@ -1,4 +1,5 @@
 ## DML DDL DCL TCL
+### Also covered
 
 * Data Manipulation Language
 * Data Definition Language
