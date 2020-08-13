@@ -2,5 +2,6 @@
 
 ## Contents
 1) [SQL Theory](https://github.com/LaminaSA/SQL-Repo/blob/master/SQL-Theory.md)
-2) SQL Commands
-3) SQL Mini-Project
+2) [SQL Commands]()
+3) [DML DDL DCL TCL]()
+) SQL Mini-Project
