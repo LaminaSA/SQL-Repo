@@ -135,9 +135,9 @@ Which would produce the following outcome:
 ID|Name|Amount|Date
 ---|---|---|-----
 1|Priscilla|NULL|NULL
-2|Jane|NULL|NULL
-3|Bob |3049|2009-10-08
-3|Bob |1500|2008-11-20
+2|Tim|NULL|NULL
+3|Luke |3049|2009-10-08
+3|Patrick |1500|2008-11-20
 4|Muffy|2000|2004-05-205
 5|Felicia|3000|2009-07-08
 
@@ -208,6 +208,7 @@ has been produced from *multiple* rows.
 **Note:** Use `WHERE` before `GROUP BY` and `HAVING` after `GROUP BY`
 
 - Column Aliases cannot be used in `HAVING` clause
+
 
 **For example**
 ```sql
